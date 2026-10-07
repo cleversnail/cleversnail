@@ -20,7 +20,7 @@
 
 ## 🛠 技术栈
 
-`JavaScript` · `TypeScript` · `Vue` · `Node.js` · `Python` · `MySQL`
+`JavaScript` · `TypeScript` · `Vue` · `React` · `Node.js` · `Python` · `MySQL`
 `大模型应用` · `RAG` · `Agent` · `MCP`
 
 ## 📫 联系
