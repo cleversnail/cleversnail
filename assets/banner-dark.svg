@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="蜗牛 · cleversnail · 全栈工程师，做 AI 应用与 Web 全栈">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop offset="0"   stop-color="#0b2033"/><stop offset="0.5" stop-color="#0c4a6e"/><stop offset="1" stop-color="#075985"/>
+      <stop offset="0" stop-color="#0b2033"/><stop offset="0.5" stop-color="#0c4a6e"/><stop offset="1" stop-color="#075985"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.72" cy="0.02" r="0.85">
       <stop offset="0" stop-color="#38bdf8" stop-opacity="0.20"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
@@ -15,7 +15,6 @@
   <rect width="1200" height="300" fill="url(#glow)"/>
   <rect x="1" y="1" width="1198" height="298" rx="10" fill="none" stroke="rgba(56,189,248,0.22)" stroke-width="2"/>
 
-  <!-- 同心圆：整体提高不透明度，保证在渐变两端都看得见 -->
   <g fill="none" stroke="#7dd3fc" stroke-width="2.5">
     <circle cx="980" cy="150" r="48"  stroke-opacity="0.62"/>
     <circle cx="980" cy="150" r="90"  stroke-opacity="0.42"/>
@@ -24,11 +23,11 @@
   <circle cx="980" cy="102" r="8" fill="#7dd3fc" fill-opacity="0.95"/>
   <circle cx="890" cy="150" r="7" fill="none" stroke="#7dd3fc" stroke-width="2.5" stroke-opacity="0.95"/>
 
-  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" fill="#f0f9ff">
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" fill="#ffffff">
     <text x="80" y="124" font-size="78" font-weight="700" letter-spacing="2">蜗牛</text>
-    <text x="80" y="172" font-size="27" font-weight="500" letter-spacing="3" fill="#7dd3fc">cleversnail</text>
+    <text x="80" y="172" font-size="27" font-weight="600" letter-spacing="3" fill="#7dd3fc">cleversnail</text>
   </g>
-  <!-- 独立强调条（下移，不再像"下划线没对齐"） -->
-  <rect x="80" y="198" width="80" height="4" rx="2" fill="#38bdf8"/>
-  <text x="80" y="248" font-size="28" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" fill="#f0f9ff">全栈工程师 · AI 应用与 Web 全栈</text>
+  <rect x="80" y="198" width="80" height="5" rx="2.5" fill="#38bdf8"/>
+  <!-- 副标题：加大字号 + 加粗 + 加深颜色，解决缩小显示时发虚 -->
+  <text x="80" y="250" font-size="29" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" fill="#ffffff">全栈工程师 · AI 应用与 Web 全栈</text>
 </svg>
