@@ -1,9 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleversnail/cleversnail/main/assets/banner-dark.svg?v=2">
-    <img src="https://raw.githubusercontent.com/cleversnail/cleversnail/main/assets/banner-light.svg?v=2" width="100%"
-         alt="蜗牛 · cleversnail · 全栈工程师，做 AI 应用与 Web 全栈">
-  </picture>
+  <img src="https://raw.githubusercontent.com/cleversnail/cleversnail/main/assets/banner-dark.svg?v=3" width="100%"
+       alt="蜗牛 · cleversnail · 全栈工程师，做 AI 应用与 Web 全栈">
   <br><br>
 </p>
 
