@@ -10,6 +10,7 @@
 
 - **AI 漫剧生成平台** —— 从剧情 → 分镜 → 生图 → 生视频的完整链路，支持自定义各环节的大模型 API Key
 - **《LangChain.js 中文入门》** —— 9 章、38 个可运行示例 · [在线阅读](https://cleversnail.github.io/lang-chain-js-cn/)
+- **《LangGraph.js 中文入门》** -- 15 章、71 个可运行示例 · [在线阅读](https://cleversnail.github.io/LangGraph_js_cn/)
 
 ### 技术栈
 
